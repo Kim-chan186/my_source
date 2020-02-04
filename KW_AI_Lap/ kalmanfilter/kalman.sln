@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kalman", "kalman\kalman.pyproj", "{82C6A64C-75B5-41BD-B2C9-C6DDE2196510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C6A64C-75B5-41BD-B2C9-C6DDE2196510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C6A64C-75B5-41BD-B2C9-C6DDE2196510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96874536-158C-4B85-B425-D79250A43D2D}
+	EndGlobalSection
+EndGlobal
