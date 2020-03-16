@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerEnvironment>PATH=C:\Program Files (x86)\EzSoftware UC\AXL(Library)\Library\64Bit;%PATH%
+PATH=C:\OpenCV\opencv\build\x64\vc15\bin;%PATH%
+PATH=C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64;%PATH%</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerAmpDefaultAccelerator>
+    </LocalDebuggerAmpDefaultAccelerator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerEnvironment>PATH=C:\Program Files (x86)\EzSoftware UC\AXL(Library)\Library\64Bit;%PATH%
+PATH=C:\OpenCV\opencv\build\x64\vc15\bin;%PATH%
+PATH=C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64;%PATH%</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerAmpDefaultAccelerator>
+    </LocalDebuggerAmpDefaultAccelerator>
+  </PropertyGroup>
+</Project>
