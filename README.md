@@ -1,7 +1,4 @@
-# test_repository
+# code repository
 
 
-
-
-<a href="/" target="_blank">
-<img src="/CMS/introduction/introduction09/introduction0901/__icsFiles/afieldfile/2017/10/18/banner_120x120_sen2.gif" alt="서울특별시교육청" border="0"></a>
+작품(외부 프로젝트가 아닌) 및 코딩 테스트를 공부하며 작성한 코드를 보관하는 장소입니다.
