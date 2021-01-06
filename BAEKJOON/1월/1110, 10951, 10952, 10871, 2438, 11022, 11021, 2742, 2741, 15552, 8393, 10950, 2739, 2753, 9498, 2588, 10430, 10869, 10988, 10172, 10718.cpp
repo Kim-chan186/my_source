@@ -5,9 +5,6 @@
 
 
 
-
-
-
 #include<stdio.h>
 // 1110
 int main() {
